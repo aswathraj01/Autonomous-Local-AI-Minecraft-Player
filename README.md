@@ -22,6 +22,7 @@ cd Autonomous-Local-AI-Minecraft-Player
 npm install
 ```
 
+
 ### 3. Configure
 
 ```bash
